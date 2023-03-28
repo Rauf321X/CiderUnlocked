@@ -16,9 +16,10 @@ We aim to publish Cider-related software only when it's open-sourced. When servi
 
 We're currently working on packing Cider 2.x builds when they're open-sourced. Currently, Cider Collective only allows Cider (EA) or 2.x builds to be acquired through purchase or support. If you'd like to get your hands on these new versions of Cider, please visit Cider Collective's resources or wait for us to pack builds of 2.x or EA. Otherwise, visit our collection of Cider 1.x open-source builds. 
 _________________________________________________________________________________________________________________________________________________________________________
+### AME Status:
 
 CiderUnlocked provides versions of AME (Apple Music Electron), but you'll have to ask the owner of CiderUnlocked to provide it to you. We may provide versions of AME later, but we're currently oriented towards Cider or AME upon request.
 
 Thanks for visiting us! 
 
-CiderUnlocked
+### CiderUnlocked
